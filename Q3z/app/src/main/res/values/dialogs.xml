@@ -16,8 +16,9 @@
         <item>combat</item>
     </string-array>
     <string-array name="Capitulo1">
-        <item>#Add</item>
+        <item>#Add dulcinea/dulcinea1.png@dulcinea</item>
         <item>H- Bueno, con estas debería bastar. ¿Qué más queda en la lista?</item>
+        <item>#Move dulcinea/300,100</item>
         <item>#Add</item>
         <item>D-Ahora solo nos queda pillar un par de dientes de león y podremos empezar a hacer el último tónico.</item>
         <item>H- Mira, ¿qué te parece si tú vas poniendo en marcha el fuego y nosotras vamos a por ellos?</item>

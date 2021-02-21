@@ -17,6 +17,7 @@ public class MainActivity extends AppCompatActivity {
     }
     public void Combat(View view){
         Intent i = new Intent(this,NarrativeActivity.class);
+        i.putExtra("chapterName","start.txt");
         startActivity(i);
     }
     public void Dialog(View view){
