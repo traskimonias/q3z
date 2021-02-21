@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tutorial">
+        <item>Bienvenido al tutorial. Toca la pantalla para continuar.</item>
+        <item>Actualmente estás en el modo dialogo.</item>
+        <item>En este modo se desarrolla la historia a traves de monologos o conversaciones entre personajes</item>
+        <item>El siguiente es el modo combate.</item>
+        <item>En el modo combate el jugador se enfrenta a un enemigo mediante sistemas de combate por turnos estandar</item>
+        <item>Actualmente el jugador puede atacar o usar magia para aumentar su ataque</item>
+        <item>#change</item>
+        <item>Espero que algún día esto de para hacer un buen juego</item>
+        <item>#change</item>
+        <item>otro change</item>
+        <item>#change</item>
+        <item>Hora del combate</item>
+        <item>combat</item>
+    </string-array>
+    <string-array name="Capitulo1">
+        <item>#Add</item>
+        <item>H- Bueno, con estas debería bastar. ¿Qué más queda en la lista?</item>
+        <item>#Add</item>
+        <item>D-Ahora solo nos queda pillar un par de dientes de león y podremos empezar a hacer el último tónico.</item>
+        <item>H- Mira, ¿qué te parece si tú vas poniendo en marcha el fuego y nosotras vamos a por ellos?</item>
+        <item>D-Ya conoces las normas. Si pudiera ir por mi cuenta os hubiera dejado atrás hace mucho tiempo, pero tenemos que permanecer las 3 juntas.</item>
+        <item>#Add</item>
+        <item>M- Dulcinea tiene razón, debemos seguir unidas. Sobre todo ahora que la actividad demoníaca está en aumento.</item>
+        <item>D- ¿Te preocupan unos demonios de pacotilla? Pues menuda compañera me ha tocado. Ya veo que si nos atacan tendré que enfrentarme yo sola.</item>
+        <item>H-Eso dices ahora, pero no pudiste hacer nada la ultima vez que atacaron.</item>
+        <item>D- Pero eso era porque me pillaron distraída. Ahora en cuanto vea algo sospechoso… PUM, rayo de hielo. Al siguiente que venga, ZASCA, bola de fuego.</item>
+        <item>M- ¿Pero no anularía el fuego el efecto del hielo?</item>
+        <item>D- Tranquila, usaría un hechizo de control de agua como ofensa. Está todo pensado.</item>
+        <item>H- Nunca te he visto usar control de agua.</item>
+        <item>D- A ver, nunca lo he intentado, pero vi que Legend lo hizo una vez, así que sé que es posible.</item>
+        <item>(Se oye un rugido)</item>
+        <item>M- ¿Habeis oido eso?</item>
+        <item>(Se oye más fuerte)</item>
+        <item>#Move</item>
+        <item>#Move</item>
+        <item>#Move</item>
+        <item>(Las 3 chicas se agrupan en posición defensiva, María y Helena desenvainan sus espadas mientras que Dulcinea aprieta firmemente su bastón)</item>
+        <item>(De entre los árboles un lobo se abalanza contra Helena, pero Dulceida la repele usando su magia, dejando al lobo inconsciente)</item>
+        <item>D- Vaya, ¿cómo es posible que un bicho tan pequeño pueda hacer tanto ruido?</item>
+        <item>#Background</item>
+        <item>H- Creo que no era él quien lo hacía.</item>
+        <item>(El rugido vuelve a sonar, esta vez suena por encima de ellas)</item>
+        <item>(Las chicas se giran y entre las ramas de un árbol ven a un hombre lobo. Para cuando se dan cuenta de lo que está sucediendo la bestia ya ha saltado hacia ellas)</item>
+        <item>(De una hostia manda volando a Helena. Después ataca a Dulceida, que repele al enemigo con su barrera)</item>
+        <item>#Move</item>
+        <item>M- ¡Helena! ¿Estás bien?</item>
+        <item>(El furro vuelve a arremeter contra las chicas, Dulceida levanta otra barrera pero esta se rompe al no aguantar el impacto del enemigo dejándole a ella el tiempo justo para esquivar)</item>
+        <item>D- María, tienes que largarte de aquí. Lleva a Helena al campamento y pide ayuda.</item>
+        <item>M- No puedo, ¡tenemos que permanecer unidas!</item>
+        <item>D- Sí, será mejor que estemos juntas no vaya a ser que nos ataque un lobo gigante o algo por el estilo.</item>
+        <item>M- Pero…</item>
+        <item>D- Ni pero ni pera, que vayas al campamento, hostia.</item>
+        <item>(Maria corre hacia Helena que hace poco acaba de recuperar el conocimiento)</item>
+        <item>#Move</item>
+        <item>D- Vamos, yo lo distraeré.</item>
+        <item>(Las chicas corren hacia el campamento. El furro, que hasta ahora estaba luchando con Dulceida corre a por ellas)</item>
+        <item>#Move</item>
+        <item>D- Oye, que yo aún no he acabado.</item>
+        <item>(Dulceida usa su rayo de hielo contra el furro, congelando una pierna y haciéndole caer al suelo. Ahora se dispone a cargar su bola de fuego)</item>
+        <item>D- He estado pensando que hacer contra bichos como tú.</item>
+        <item>(El furro se pone a aullar y tras su llamada una manada aparece detrás de Dulceida)</item>
+        <item>#Move</item>
+        <item>D- Vale, no había pensado que hacer ante algo así.</item>
+        <item>#Combat</item>
+        <item>#Background</item>
+        <item>#Move</item>
+        <item>#Move</item>
+        <item>M- ¡Profe, profe!</item>
+        <item>P- Chicas, ¿qué ocurre? ¿Dónde está Dulcinea?</item>
+        <item>M- El rey demonio ha vuelto a atacar. De repente un lobo gigante ha aparecido y nos ha atacado, Dulcinea está ahora luchando contra él.</item>
+        <item>P- ¿Eso es todo? No hace falta que intervenga el rey demonio para que os encontréis con un lobo en medio del bosque</item>
+        <item>H- Ya te digo que no era un animal normal. Se ponía a dos patas, saltaba de árbol en árbol y medía dos metros y pico.</item>
+        <item>P- Vale, eso ya es más preocupante. Me reuniré con las demás profesoras e iremos a por ella. Vosotras avisad a las demás chicas para que vuelvan.</item>
+        <item>M- Pero profe, Dulceida está luchando sola contra esa cosa, debes ir directamente a ayudarla.</item>
+        <item>P- Si lo que decís es cierto,  yo sola no podré derrotarlo, pero si no se trata más que de un un animal ella podrá controlarlo bastante bien ella sola.</item>
+        <item>M- Pe… pero…</item>
+        <item>H- Déjalo María. Ahora nuestra mejor opción es que se encarguen las profesoras. Nosotras debemos avisar a las demás.</item>
+        <item>#Move</item>
+        <item>(La profesora y Helena se van de la escena)</item>
+        <item>M- Ni hablar, no puedo dejar a Dulcinea allí sola. Tengo que ayudarla.</item>
+        <item>M- Si hubiera vuelto sola me hubiera transformado a mitad de camino, pero no puedo dejar que nadie descubra mi identidad, ni siquiera Helena.</item>
+        <item>M- Pero ahora ya puedo. Legend entra en acción.</item>
+        <item>#Change</item>
+        <item>(María se transforma en Legend)</item>
+        <item>L- Aguanta, Dulceida, ahora mismo voy para allá.</item>
+        <item>#Background</item>
+        <item>(La escena vuelve al bosque donde Dulceida trata de resistir con su barrera los ataques de las bestias)</item>
+        <item>#Add</item>
+        <item>D- Este sería un buen momento para que viniese la ayuda. ¿Se puede saber por qué están tardando tanto esas chicas?</item>
+        <item>L- Eh, ¿necesitas ayuda?</item>
+        <item>(La escena cambia y se ve a legend encima de un árbol. Imitando la entrada del furro)</item>
+        <item>#Background</item>
+        <item>#Add</item>
+        <item>D- ¡¡¡¡¡Legend!!!!!</item>
+        <item>(Legend salta del árbol y golpea el suelo con fuerza. La honda expansiva que genera golpea a sus enemigos y los tumba)</item>
+        <item>L- Vaya, ¿cómo es posible que un bicho tan débil pueda hacer tanto ruido?</item>
+        <item>#Combat</item>
+        <item>L- Hora de poner fin a esta pelea.</item>
+        <item>(Un rayo de energía es disparado desde el bosque y golpea a Legend que estaba desprevenida)</item>
+        <item>L- Aaaaahhhh.</item>
+        <item>(La hostia ha sido tal que Legend sale disparada y choca contra un árbol)</item>
+        <item>#Move</item>
+        <item>(De entre las sombras aparece Troya)</item>
+        <item>#Add</item>
+        <item>T- Sabía que imbuir a un cazador con mi poder demoníaco me llevaría hasta ti.</item>
+        <item>L- Troya. Sabía que eras bastante hija de puta. Pero ataques sorpresas por la espalda…</item>
+        <item>T- Una victoria es una victoria. No me interesa el honor, solamente quitarte del medio.</item>
+        <item>#Move</item>
+        <item>(Troya chasquea los dedos y el furro se lanza a por Legend)</item>
+        <item>D- Detente</item>
+        <item>#Add</item>
+        <item>(Dulcinea, que hasta ahora estaba escondida salta a la acción y golpea al furro con un hechizo)</item>
+        <item>T- Vaya, así que tenemos a otra maga</item>
+        <item>Continuará</item>
+
+    </string-array>
+</resources>
