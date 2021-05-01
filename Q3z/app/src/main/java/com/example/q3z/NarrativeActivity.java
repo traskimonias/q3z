@@ -92,6 +92,7 @@ public class NarrativeActivity extends Activity {
         //Recoge el dialogo del capitulo
         cont=-1;
         speech=ChapterFromMemory(gameTitle,getIntent().getExtras().getString("chapterName"));
+        System.out.println(speech);
         Next();
 
     }
